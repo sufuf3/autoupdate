@@ -28,7 +28,7 @@
     "nodegit": "^0.20",
     "semver-stable": "^2.0.4"
   },
-  engines: {
+  "engines": {
     "node": "^8"
   }
 }
